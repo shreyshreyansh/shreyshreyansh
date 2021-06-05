@@ -89,6 +89,12 @@
 <a href="https://instagram.com/shrey_shreyansh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://codeforces.com/profile/shrey_shreyansh" target="_blank">
+<img src=https://img.shields.io/badge/Codefoces-max(1476)-black?&style=for-the-badge&logo=github&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://instagram.com/shrey_shreyansh" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
