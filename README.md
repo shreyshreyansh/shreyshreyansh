@@ -4,7 +4,7 @@
 <br><br>
 
 <p align="center">
-<a href="https://shreyshreyansh.github.io/cv/" target="_blank"><img src="https://www.maziarrajabi.com/wp-content/uploads/2020/05/about_me.jpg" alt="About me" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://shreyshreyansh.github.io/cv/" target="_blank"><img src="https://www.maziarrajabi.com/wp-content/uploads/2020/05/about_me.jpg" alt="About me" style="height: 40px !important;width: 150px !important;" ></a>
 </p>
 
 <br>
