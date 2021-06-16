@@ -76,7 +76,9 @@
 
 ### Proud Creator of 😎
 
-[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyshreyansh&repo=GreenMile)](https://github.com/AsishRaju/GreenMile)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyshreyansh&repo=Smart-Water)](https://github.com/AsishRaju/Smart-Water)
+[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyshreyansh&repo=GreenMile)](https://github.com/shreyshreyansh/GreenMile)
+<br/>
+[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyshreyansh&repo=Smart-Water)](https://github.com/shreyshreyansh/Smart-Water)
 
 <br/>  
 
