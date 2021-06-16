@@ -83,7 +83,7 @@
 <br/>  
 
 
-## Connect with me  
+## About me  
 <div align="center">
 <a href="https://github.com/shreyshreyansh" target="_blank">
 <img src=https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
