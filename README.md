@@ -21,9 +21,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
   
 <div align="center">
-<a href="https://github.com/shreyshreyansh" target="_blank">
-<img src=https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/Shreyanshshrey3" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -69,12 +66,3 @@
 </a>
 </p>
 
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shreyshreyansh1&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
