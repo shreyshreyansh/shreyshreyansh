@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" align="center" style="width: 20%" />
-</div>  
-  
+![banner](https://user-images.githubusercontent.com/53744971/123743194-7f8ef200-d8ca-11eb-8686-b7fab041e096.png)
 
 ### <div align="center">I'm Shreyansh, a full-stack web developer 👨‍💻 and an Internet of things enthusiast 🛰️</div>  
   
