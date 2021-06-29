@@ -60,7 +60,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyshreyansh&show_icons=true&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=shreyshreyansh1&&style=flat-square" align="center" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshreyansh&theme=tokyonight" />
 </p>
 
