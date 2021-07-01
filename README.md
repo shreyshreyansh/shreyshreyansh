@@ -17,7 +17,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
   
-<div align="center">
+<div>
 <a href="https://twitter.com/Shreyanshshrey3" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
