@@ -64,5 +64,5 @@
 
 ### 📈 &nbsp;Contribution Graph
 
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyshreyansh&theme=xcode)
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyshreyansh&theme=tokyonight)
 
