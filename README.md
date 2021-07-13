@@ -58,11 +58,11 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shreyshreyansh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshreyansh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshreyansh&theme=algolia" />
 </p>
 
 
 ### 📈 &nbsp;Contribution Graph
 
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyshreyansh&theme=tokyonight)
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyshreyansh&theme=algolia)
 
