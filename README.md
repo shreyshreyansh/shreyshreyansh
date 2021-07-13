@@ -61,8 +61,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshreyansh&theme=algolia" />
 </p>
 
-
-### 📈 &nbsp;Contribution Graph
-
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyshreyansh&theme=algolia)
-
