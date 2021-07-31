@@ -56,7 +56,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <img width="48%" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shreyshreyansh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=shreyshreyansh&count_private=true&show_icons=true&theme=nightowl)](https://github.com/shreyshreyansh) 
 
