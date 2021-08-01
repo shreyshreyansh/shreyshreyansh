@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/53744971/123743194-7f8ef200-d8ca-11eb-8686-b7fab041e096.png)
+<h1>Hi 👋</h1>
 
 ### <div>I'm Shreyansh, a full-stack web developer 👨‍💻 and an Internet of things enthusiast 🛰️</div>  
   
