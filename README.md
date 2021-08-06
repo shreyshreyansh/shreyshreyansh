@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Smart Water meter](https://github.com/shreyshreyansh/Smart-Water)  
   
 
-- 🌱 I’m currently learning Natural language processing  
+- 🌱 I’m currently trying to get placed in a company 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
