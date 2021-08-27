@@ -1,6 +1,6 @@
-<h1>Hi 👋</h1>
+<h1>Hi 👋 I'm Shreyansh, a full-stack web developer 👨‍💻</h1>
 
-### <div>I'm Shreyansh, a full-stack web developer 👨‍💻 and an Internet of things enthusiast 🛰️</div>  
+<!-- ### <div></div>   -->
   
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -27,7 +27,6 @@
 <a href="https://instagram.com/shrey_shreyansh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  <br />
 <a href="https://codeforces.com/profile/shrey_shreyansh" target="_blank">
 <img src=https://img.shields.io/badge/Codefoces-max(1476)-black?&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 </a>  
@@ -40,8 +39,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -51,7 +48,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
