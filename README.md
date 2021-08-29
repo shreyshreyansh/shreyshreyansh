@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Shreyansh, a full-stack web developer 👨‍💻</h1>
+<h1>Hi 👋 I'm Shreyansh, a full-stack developer 👨‍💻</h1>
 
 <!-- ### <div></div>   -->
   
