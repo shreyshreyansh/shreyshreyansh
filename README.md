@@ -26,10 +26,10 @@
 </a>
 </br>
 <a href="https://codeforces.com/profile/shrey_shreyansh" target="_blank">
-<img src=https://img.shields.io/badge/Codefoces-max(1476)-black?&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Codefoces-black?&style=for-the-badge&logo=linkedin&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codechef.com/users/cyberphobia" target="_blank">
-<img src=https://img.shields.io/badge/Codechef-MAX(1879)-black?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Codechef-black?&style=for-the-badge&logo=linkedin&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 </div>
 
