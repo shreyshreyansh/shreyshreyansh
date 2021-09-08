@@ -4,7 +4,7 @@
   
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [Smart Water meter](https://github.com/shreyshreyansh/Smart-Water)  
+- 🔭 I’m currently working on DevOps 
 
 - 🌱 I’m currently trying to get placed in a company 
 
