@@ -31,6 +31,9 @@
 <a href="https://www.codechef.com/users/cyberphobia" target="_blank">
 <img src=https://img.shields.io/badge/Codechef-703C1C?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
+<a href="https://auth.geeksforgeeks.org/user/shrey_shreyansh/profile" target="_blank">
+<img src=https://img.shields.io/badge/GeeksForGeeks-358F49?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
