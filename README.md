@@ -59,5 +59,5 @@
 
 ### ⚙️ &nbsp;GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=shreyshreyansh&theme=blue-green)](https://github.com/shreyshreyansh) 
+[![Stats](https://github-readme-stats.vercel.app/api?username=shreyshreyansh&hide_rank=true&show_icons=true&theme=blue-green&count_private=true&hide_title=true)](https://github.com/shreyshreyansh) 
 
