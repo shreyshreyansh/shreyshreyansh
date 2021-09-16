@@ -15,8 +15,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
   
 <div>
-<a href="https://twitter.com/Shreyanshshrey3" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://leetcode.com/cyberphobia/" target="_blank">
+<img src=https://img.shields.io/badge/Leetcode-fac02e?style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/shreyansh-shrey-647870190" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
