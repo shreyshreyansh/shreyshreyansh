@@ -12,30 +12,6 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
-### 🤝🏻 &nbsp;Connect with Me
-  
-<div>
-<a href="https://leetcode.com/cyberphobia/" target="_blank">
-<img src=https://img.shields.io/badge/Leetcode-fac02e?style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shreyansh-shrey-647870190" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/shrey_shreyansh" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</br>
-<a href="https://codeforces.com/profile/shrey_shreyansh" target="_blank">
-<img src=https://img.shields.io/badge/Codefoces-445F9E?&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.codechef.com/users/cyberphobia" target="_blank">
-<img src=https://img.shields.io/badge/Codechef-703C1C?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/shrey_shreyansh/profile" target="_blank">
-<img src=https://img.shields.io/badge/GeeksForGeeks-358F49?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-</div>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -56,6 +32,32 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
+### 🤝🏻 &nbsp;My profiles
+  
+<div>
+<a href="https://leetcode.com/cyberphobia/" target="_blank">
+<img src=https://img.shields.io/badge/Leetcode-fac02e?style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/shreyansh-shrey-647870190" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/shrey_shreyansh" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+ <a href="https://drive.google.com/file/d/1SPl-8X0DpCI8EX0522zT5_jIRUMkiOwg/view?usp=sharing" target="_blank">
+<img src=https://img.shields.io/badge/Resume-ff0000?style=for-the-badge&logo=eslint&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</br>
+<a href="https://codeforces.com/profile/shrey_shreyansh" target="_blank">
+<img src=https://img.shields.io/badge/Codefoces-445F9E?&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.codechef.com/users/cyberphobia" target="_blank">
+<img src=https://img.shields.io/badge/Codechef-703C1C?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shrey_shreyansh/profile" target="_blank">
+<img src=https://img.shields.io/badge/GeeksForGeeks-358F49?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ### ⚙️ &nbsp;GitHub Stats
 
