@@ -4,7 +4,7 @@
   
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on DevOps 
+- 🔭 I’m currently working on graph databases and AWS 
 
 - 🌱 I’m currently trying to get placed in a company 
 
