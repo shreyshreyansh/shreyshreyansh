@@ -44,7 +44,7 @@
 <a href="https://instagram.com/shrey_shreyansh" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://drive.google.com/file/d/1SPl-8X0DpCI8EX0522zT5_jIRUMkiOwg/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1x_myM1FsBpIoyO0CA8YcbHZi4V6bIHIx/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/Resume-ff0000?style=for-the-badge&logo=eslint&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </br>
