@@ -4,7 +4,7 @@
   
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on <b>graph databases</b> and <b>AWS</b> 
+- 🔭 I’m currently working on <b>Neo4j</b> and <b>AWS</b> 
 
 - 🌱 I’m currently trying to get placed in a company 
 
