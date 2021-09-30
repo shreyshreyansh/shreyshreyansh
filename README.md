@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on <b>Neo4j</b> and <b>AWS</b> 
 
-- 🌱 I’m currently trying to get placed in a company 
+- 🌱 ACM <b>ICPC'21</b> Regionalist
 
-- ❓ Ask me about anything related to <b>MERN stack</b> and related technologies  
+- ❓ Ask me about anything related to <b>MERN stack</b>  
 
 - ⚡ Fun fact: I use tabs over spaces  
 
