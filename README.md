@@ -17,7 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=round&logo=java&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=round&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=round&logo=node.js&logoColor=white)&nbsp;<br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=round&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=round&logo=express&logoColor=white)&nbsp;<br/>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=round&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=round&logo=css3&logoColor=white)&nbsp;
@@ -30,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=round&logo=mysql&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=round&logo=heroku&logoColor=white)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=round&logo=amazon-aws&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=round&logo=express&logoColor=white)&nbsp;
+![Neo4j](https://img.shields.io/badge/Neo4j-028bff?style=round&logo=neo4j&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;My profiles
   
