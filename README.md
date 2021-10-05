@@ -32,6 +32,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=round&logo=heroku&logoColor=white)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=round&logo=amazon-aws&logoColor=white)&nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-028bff?style=round&logo=neo4j&logoColor=white)&nbsp;
+![graphQL](https://img.shields.io/badge/graphQL-de33a6?style=round&logo=graphql&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;My profiles
   
