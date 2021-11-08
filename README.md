@@ -43,11 +43,8 @@
 <a href="https://linkedin.com/in/shreyansh-shrey-647870190" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=round&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/shrey_shreyansh" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=round&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
- <a href="https://drive.google.com/file/d/1x_myM1FsBpIoyO0CA8YcbHZi4V6bIHIx/view?usp=sharing" target="_blank">
-<img src=https://img.shields.io/badge/Resume-ff0000?style=round&logo=eslint&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://auth.geeksforgeeks.org/user/shrey_shreyansh/profile" target="_blank">
+<img src=https://img.shields.io/badge/GeeksForGeeks-358F49?&style=round&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 </br>
 <a href="https://codeforces.com/profile/shrey_shreyansh" target="_blank">
@@ -56,8 +53,8 @@
 <a href="https://www.codechef.com/users/cyberphobia" target="_blank">
 <img src=https://img.shields.io/badge/Codechef-703C1C?&style=round&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/shrey_shreyansh/profile" target="_blank">
-<img src=https://img.shields.io/badge/GeeksForGeeks-358F49?&style=round&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+<a href="https://drive.google.com/file/d/1x_myM1FsBpIoyO0CA8YcbHZi4V6bIHIx/view?usp=sharing" target="_blank">
+<img src=https://img.shields.io/badge/Resume-ff0000?style=round&logo=eslint&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
