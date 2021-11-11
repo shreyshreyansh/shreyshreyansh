@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <b>Neo4j</b> and <b>AWS</b> 
 
-- 🌱 ACM <b>ICPC'20</b> Regionalist
+- 🌱 <b>ACM ICPC'20</b> Regionalist
 
 - ❓ Ask me about anything related to <b>MERN stack</b>  
 
