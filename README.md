@@ -16,6 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=round&logo=java&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=round&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=round&logo=node.js&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-4EA94B?style=round&logo=nginx&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=round&logo=express&logoColor=white)&nbsp;<br/>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=round&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white)
