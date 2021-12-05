@@ -22,16 +22,17 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=round&logo=css3&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=round&logo=jquery&logoColor=white)&nbsp;
+![graphQL](https://img.shields.io/badge/graphQL-de33a6?style=round&logo=graphql&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=round&logo=gitlab&logoColor=white)&nbsp;<br/>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=round&logo=github&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=round&logo=markdown&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=round&logo=postgresql&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/Vim-019331?style=round&logo=vim&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=round&logo=mongodb&logoColor=white)&nbsp;<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=round&logo=mysql&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=round&logo=heroku&logoColor=white)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=round&logo=amazon-aws&logoColor=white)&nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-028bff?style=round&logo=neo4j&logoColor=white)&nbsp;
-![graphQL](https://img.shields.io/badge/graphQL-de33a6?style=round&logo=graphql&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;My profiles
   
