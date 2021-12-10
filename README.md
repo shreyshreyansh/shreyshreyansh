@@ -1,4 +1,4 @@
-<h1>Hello, I'm Shreyansh 👋 a backend developer 👨🏻‍💻</h1>
+<h1>Hi, I'm Shreyansh 👋 a backend developer 👨🏻‍💻</h1>
 
 <!-- ### <div></div>   -->
   
