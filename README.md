@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ticketing app](https://github.com/shreyshreyansh/ticketing-app)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **react, node.js and aws**
 
